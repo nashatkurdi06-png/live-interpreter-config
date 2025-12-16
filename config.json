@@ -1,5 +1,14 @@
 {
-    "azure_key_encrypted": "YOUR_ENCRYPTED_KEY_HERE",
+    "azure_key_encrypted": "{
+    "azure_key_encrypted": "6t15oDm+LfgDC1SgIJZSZkVDbcMT7uSywxIBUs2S3GKv3GiCN5N06hPFhugNxgG1yURFd8WDG2IuveCFY3JnIYprRSIoc1zOdFCRalQOSUkZP",
+    "azure_region": "eastus",
+    "app_enabled": true,
+    "message": "",
+    "min_version": "1.0.0",
+    "update_url": "",
+    "update_version": ""
+}
+",
     "azure_region": "eastus",
     "app_enabled": true,
     "message": "",

@@ -1,0 +1,9 @@
+{
+    "azure_key_encrypted": "YOUR_ENCRYPTED_KEY_HERE",
+    "azure_region": "eastus",
+    "app_enabled": true,
+    "message": "",
+    "min_version": "1.0.0",
+    "update_url": "",
+    "update_version": ""
+}

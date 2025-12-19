@@ -2,8 +2,8 @@
     "azure_key": "2fwroZiVVnOlbGOgcbEP9ymsUSbFPHMewgfPaw0DB5DO3Qpsw0ubJQQJ99BLACYeBjFXJ3w3AAAYACOGi733",
     "azure_region": "eastus",
     "app_enabled": true,
-    "message": "الإصدار 2.0.1 - كشف ذكي + تصحيح القواعد | by Nashat Shamsady",
+    "message": "الإصدار 2.0.2 - كشف ذكي + تصحيح القواعد | by Nashat Shamsady",
     "min_version": "1.0.0",
-    "update_url": "https://github.com/nashatkurdi06-png/live-interpreter-config/releases/download/v2.0.1/LiveInterpreter.exe",
-    "update_version": "2.0.1"
+    "update_url": "https://github.com/nashatkurdi06-png/live-interpreter-config/releases/download/v2.0.2/LiveInterpreter.exe",
+    "update_version": "2.0.2"
 }
